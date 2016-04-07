@@ -27,7 +27,7 @@
   "homepage": "https://github.com/ipfs/js-ipfs-unixfs#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "dignified.js": "github:dignifiedquire/dignified.js",
+    "dignified.js": "^1.0.0",
     "pre-commit": "^1.1.2"
   },
   "dependencies": {
